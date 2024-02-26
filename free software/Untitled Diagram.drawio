@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T13:29:32.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="IEE_DUwu0quEIeva1lxJ" version="23.1.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-26T15:17:15.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="UEDKNtRMVpIAljHaOrtO" version="23.1.6" type="github" pages="2">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="2260" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -297,7 +297,7 @@
         <mxCell id="NaLUj4CSaD-ZdcwMRhFD-5" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;b&gt;User Interface&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="NaLUj4CSaD-ZdcwMRhFD-1" vertex="1">
           <mxGeometry x="600.0000000000005" y="410.00000000000057" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="NaLUj4CSaD-ZdcwMRhFD-6" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;b&gt;Users&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="NaLUj4CSaD-ZdcwMRhFD-1" vertex="1">
+        <mxCell id="NaLUj4CSaD-ZdcwMRhFD-6" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;b&gt;Users&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;- Institutions&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;-&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="NaLUj4CSaD-ZdcwMRhFD-1" vertex="1">
           <mxGeometry x="170.00000000000023" y="570.0000000000006" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="NaLUj4CSaD-ZdcwMRhFD-7" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;WHOS Node&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;WIS2.0 Box&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Hydroserver&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;.....&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="NaLUj4CSaD-ZdcwMRhFD-1" vertex="1">
@@ -557,6 +557,9 @@
         </mxCell>
         <mxCell id="NaLUj4CSaD-ZdcwMRhFD-59" value="WHOS Architecture" style="rounded=1;whiteSpace=wrap;html=1;" parent="NaLUj4CSaD-ZdcwMRhFD-1" vertex="1">
           <mxGeometry x="300" y="10" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TMqhD7wElSZEIaCEn4Wh-0" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;WHOS Node&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;WIS2.0 Box&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Hydroserver&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;.....&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="NaLUj4CSaD-ZdcwMRhFD-1">
+          <mxGeometry x="-179.99999999999994" y="142.50000000000037" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
