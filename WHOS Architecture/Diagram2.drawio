@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T15:06:56.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="oabBlt_vbYPv5xPgBgAS" version="24.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-05T15:22:44.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="XQ1H3yR8Mc-Yp45r1k-d" version="24.0.1" type="github" pages="2">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="2795" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -411,6 +411,18 @@
             <mxPoint x="710" y="440" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ByorQN-n8A6gGtA52p3b-145" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.013;entryY=0.341;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" edge="1" parent="1" source="ByorQN-n8A6gGtA52p3b-126" target="19">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="510" y="390" as="sourcePoint" />
+            <mxPoint x="670" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ByorQN-n8A6gGtA52p3b-147" value="Changes in the ontology will affect the DAB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="530" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ByorQN-n8A6gGtA52p3b-148" value="Dependency" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="140" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
