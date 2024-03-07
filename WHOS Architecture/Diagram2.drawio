@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T15:22:44.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="XQ1H3yR8Mc-Yp45r1k-d" version="24.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-07T10:30:44.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="l951bSo3Vg4P9fuf1rMA" version="24.0.2" type="github" pages="2">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
-    <mxGraphModel dx="2795" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -294,7 +294,7 @@
         <mxCell id="nmjursHmpdUEIppOzTPe-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nmjursHmpdUEIppOzTPe-112" target="20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nmjursHmpdUEIppOzTPe-112">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="nmjursHmpdUEIppOzTPe-112" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-130.29411764705856" y="600" as="targetPoint" />
           </mxGeometry>
@@ -302,30 +302,30 @@
         <mxCell id="nmjursHmpdUEIppOzTPe-112" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Data providers&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;- Local&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;- Global&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;- Regional&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
           <mxGeometry x="-310" y="590" width="180" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-112" value="Relation" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#FF0000;exitX=0.438;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="21" target="nmjursHmpdUEIppOzTPe-112">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-112" value="Relation" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#FF0000;exitX=0.438;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="21" target="nmjursHmpdUEIppOzTPe-112" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-210" y="480" as="sourcePoint" />
             <mxPoint x="-220" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-113" value="0..n" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="ByorQN-n8A6gGtA52p3b-112">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-113" value="0..n" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" parent="ByorQN-n8A6gGtA52p3b-112" connectable="0" vertex="1">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-114" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;0,..*&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="ByorQN-n8A6gGtA52p3b-112">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-114" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;0,..*&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" parent="ByorQN-n8A6gGtA52p3b-112" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="30" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-116" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="19" target="23">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-116" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0000;" parent="1" source="19" target="23" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="480" y="150" as="sourcePoint" />
             <mxPoint x="640" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-118" value="&lt;b&gt;Implementation arrow&lt;/b&gt;&amp;nbsp;(Justification: User interface implements the function defined in the DAB)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-118" value="&lt;b&gt;Implementation arrow&lt;/b&gt;&amp;nbsp;(Justification: User interface implements the function defined in the DAB)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="561.58" y="211.64" width="219" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-122" value="Relation" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=-0.031;exitY=0.364;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF0000;" edge="1" parent="1" source="25" target="nmjursHmpdUEIppOzTPe-112">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-122" value="Relation" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=-0.031;exitY=0.364;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF0000;" parent="1" source="25" target="nmjursHmpdUEIppOzTPe-112" edge="1">
           <mxGeometry x="0.0286" y="30" relative="1" as="geometry">
             <mxPoint x="-480" y="510" as="sourcePoint" />
             <mxPoint x="-330" y="695" as="targetPoint" />
@@ -336,30 +336,30 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-123" value="0..1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="ByorQN-n8A6gGtA52p3b-122">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-123" value="0..1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" parent="ByorQN-n8A6gGtA52p3b-122" connectable="0" vertex="1">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-124" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;0,..*&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="ByorQN-n8A6gGtA52p3b-122">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-124" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;0,..*&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" parent="ByorQN-n8A6gGtA52p3b-122" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="-10" y="-25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-125" value="&lt;b&gt;Question:&lt;/b&gt; is this aggregation or multiplicity?&lt;div&gt;Note: i am considering these arrows as aggregation&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-125" value="&lt;b&gt;Question:&lt;/b&gt; is this aggregation or multiplicity?&lt;div&gt;Note: i am considering these arrows as aggregation&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-250" y="140" width="150" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-126" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;b&gt;Ontology/catalog&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-126" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;b&gt;Ontology/catalog&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
           <mxGeometry x="650.0000000000001" y="91.64000000000044" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-127" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.998;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.009;exitY=0.351;exitDx=0;exitDy=0;strokeColor=#FF0000;exitPerimeter=0;" edge="1" parent="1" source="19" target="25">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-127" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.998;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.009;exitY=0.351;exitDx=0;exitDy=0;strokeColor=#FF0000;exitPerimeter=0;" parent="1" source="19" target="25" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="400" y="320" as="sourcePoint" />
             <mxPoint x="560" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-128" value="&lt;span style=&quot;color: rgb(15, 23, 42); font-family: Montserrat, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&#39;WHOS-Arctic web portal&#39;&lt;/b&gt; can we consider this as an example of&amp;nbsp; WHOS node?&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FF6666;" vertex="1" parent="1">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-128" value="&lt;span style=&quot;color: rgb(15, 23, 42); font-family: Montserrat, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&#39;WHOS-Arctic web portal&#39;&lt;/b&gt; can we consider this as an example of&amp;nbsp; WHOS node?&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="-210" y="15" width="150" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-132" value="Relation" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#FF0000;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="19" target="nmjursHmpdUEIppOzTPe-112">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-132" value="Relation" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#FF0000;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="19" target="nmjursHmpdUEIppOzTPe-112" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="320" as="sourcePoint" />
             <mxPoint x="-150" y="550" as="targetPoint" />
@@ -372,15 +372,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-133" value="0..1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="ByorQN-n8A6gGtA52p3b-132">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-133" value="0..1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" parent="ByorQN-n8A6gGtA52p3b-132" connectable="0" vertex="1">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-134" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;0,..*&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="ByorQN-n8A6gGtA52p3b-132">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-134" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;0,..*&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" parent="ByorQN-n8A6gGtA52p3b-132" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="30" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-135" value="Relation" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0000;entryX=1.024;entryY=0.343;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="19" target="21">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-135" value="Relation" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0000;entryX=1.024;entryY=0.343;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="19" target="21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-160" y="340" as="sourcePoint" />
             <mxPoint x="390" y="350" as="targetPoint" />
@@ -392,37 +392,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-136" value="0..1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="ByorQN-n8A6gGtA52p3b-135">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-136" value="0..1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" parent="ByorQN-n8A6gGtA52p3b-135" connectable="0" vertex="1">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-137" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;0,..*&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="ByorQN-n8A6gGtA52p3b-135">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-137" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;0,..*&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" parent="ByorQN-n8A6gGtA52p3b-135" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-139" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="24">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-139" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#FF0000;" parent="1" source="24" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="480" y="162" as="sourcePoint" />
             <mxPoint x="600" y="460" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-141" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.193;entryY=0.991;entryDx=0;entryDy=0;strokeColor=#FF0000;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="29" target="23">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-141" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.193;entryY=0.991;entryDx=0;entryDy=0;strokeColor=#FF0000;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="29" target="23" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="620" y="560" as="sourcePoint" />
             <mxPoint x="710" y="440" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-145" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.013;entryY=0.341;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" edge="1" parent="1" source="ByorQN-n8A6gGtA52p3b-126" target="19">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-145" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.013;entryY=0.341;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" parent="1" source="ByorQN-n8A6gGtA52p3b-126" target="19" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="510" y="390" as="sourcePoint" />
             <mxPoint x="670" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-147" value="Changes in the ontology will affect the DAB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-147" value="Changes in the ontology will affect the DAB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="530" y="90" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ByorQN-n8A6gGtA52p3b-148" value="Dependency" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ByorQN-n8A6gGtA52p3b-148" value="Dependency" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ke9NZwDRJzb7mPrDCmST-112" value="&lt;span style=&quot;color: rgb(15, 23, 42); font-family: Montserrat, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&#39;WHOS-Arctic web portal&#39;&lt;/b&gt; is an example of user interface&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="780" y="390" width="150" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
