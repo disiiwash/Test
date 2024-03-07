@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T10:50:46.990Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="yI7OYO1yXd3T0f58qNTm" version="24.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-07T10:53:05.059Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="azZdYUczlx1sqG8UC-JH" version="24.0.2" type="github" pages="2">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="2500" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -479,6 +479,9 @@
         </mxCell>
         <mxCell id="ke9NZwDRJzb7mPrDCmST-131" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Montserrat, sans-serif&quot; color=&quot;#0f172a&quot;&gt;&lt;b style=&quot;&quot;&gt;Aggregation: WHOS node could pull data from one or manydata centers&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#66FF66;" vertex="1" parent="1">
           <mxGeometry x="-460" y="340" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ke9NZwDRJzb7mPrDCmST-133" value="&lt;b&gt;Question:&lt;/b&gt; is there a way that the DAB have direct access to the data centers and data provides?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="270" width="150" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
