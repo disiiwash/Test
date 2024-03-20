@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T09:43:45.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="sNoWLxI80HV7D6ZWOIhV" version="24.0.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-20T09:47:50.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="_m8manWW2PzG0N5oGkjp" version="24.0.7" type="github" pages="3">
   <diagram name="Corrected Diagram" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="3326" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1183,11 +1183,17 @@
             <mxPoint x="1760" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="H7e9hR3cebRyQdY7iCz0-23" value="Could specific organizations subscribe to the broker ??" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FF0000;" vertex="1" parent="xz0jueh79__ibbF_jKvQ-1">
+          <mxGeometry x="1490" y="410" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qrMReDebcwUhYUUukPge-0" value="Could specific organizations download from cache ??" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FF0000;" vertex="1" parent="xz0jueh79__ibbF_jKvQ-1">
+          <mxGeometry x="1490" y="620" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="WHOS operational plan2" id="lgxUQoXvejUB-9aSRBp2">
-    <mxGraphModel dx="1876" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="NaLUj4CSaD-ZdcwMRhFD-0" />
         <mxCell id="NaLUj4CSaD-ZdcwMRhFD-1" parent="NaLUj4CSaD-ZdcwMRhFD-0" />
