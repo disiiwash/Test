@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T09:39:34.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Yc-1_FV_ZQJxTDCKdDMX" version="24.0.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-20T09:43:45.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="sNoWLxI80HV7D6ZWOIhV" version="24.0.7" type="github" pages="3">
   <diagram name="Corrected Diagram" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="3326" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1132,7 +1132,7 @@
             <mxPoint x="-110" y="741" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H7e9hR3cebRyQdY7iCz0-3" value="User" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="xz0jueh79__ibbF_jKvQ-1">
+        <mxCell id="H7e9hR3cebRyQdY7iCz0-3" value="User (e.g. specific NMHS)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="xz0jueh79__ibbF_jKvQ-1">
           <mxGeometry x="1110" y="520" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H7e9hR3cebRyQdY7iCz0-4" value="Global broker" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="xz0jueh79__ibbF_jKvQ-1">
@@ -1141,7 +1141,7 @@
         <mxCell id="H7e9hR3cebRyQdY7iCz0-5" value="Global cache" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="xz0jueh79__ibbF_jKvQ-1">
           <mxGeometry x="1390" y="645" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="H7e9hR3cebRyQdY7iCz0-6" value="Data provider" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="xz0jueh79__ibbF_jKvQ-1">
+        <mxCell id="H7e9hR3cebRyQdY7iCz0-6" value="Data provider&lt;div&gt;(e.g. ECMWF)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="xz0jueh79__ibbF_jKvQ-1">
           <mxGeometry x="1520" y="500" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H7e9hR3cebRyQdY7iCz0-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xz0jueh79__ibbF_jKvQ-1" target="H7e9hR3cebRyQdY7iCz0-4">
@@ -1170,6 +1170,18 @@
         </mxCell>
         <mxCell id="H7e9hR3cebRyQdY7iCz0-17" value="Download recommended data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FF99CC;" vertex="1" parent="xz0jueh79__ibbF_jKvQ-1">
           <mxGeometry x="1310" y="510" width="90" height="49.68" as="geometry" />
+        </mxCell>
+        <mxCell id="H7e9hR3cebRyQdY7iCz0-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="xz0jueh79__ibbF_jKvQ-1" source="H7e9hR3cebRyQdY7iCz0-5" target="H7e9hR3cebRyQdY7iCz0-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1430" y="680" as="sourcePoint" />
+            <mxPoint x="1760" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H7e9hR3cebRyQdY7iCz0-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="xz0jueh79__ibbF_jKvQ-1" source="H7e9hR3cebRyQdY7iCz0-4" target="H7e9hR3cebRyQdY7iCz0-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1450" y="420" as="sourcePoint" />
+            <mxPoint x="1760" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
