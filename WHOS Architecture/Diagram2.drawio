@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T11:31:39.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zns4VFxWi--y7rqB2V_3" version="24.0.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-21T11:37:19.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="a7ss3H52nuMhDeCUFQtJ" version="24.0.7" type="github" pages="5">
   <diagram name="Corrected Diagram" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="3326" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1505,7 +1505,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="0ueWyYI1_UxM_6seUdsW" name="1_WHOS_architecture_Philipp">
+  <diagram id="0ueWyYI1_UxM_6seUdsW" name="1_WIS2.0_Philipp">
     <mxGraphModel dx="1674" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1735,7 +1735,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="BiPy-DM7reLvgMs7JX1b" name="2_WHOS_WIS_architecture_Philipp">
+  <diagram id="BiPy-DM7reLvgMs7JX1b" name="2_WIS2.0_WIGOS_WHOS_Philipp">
     <mxGraphModel dx="2524" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
