@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T10:12:47.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="d5YikU80W72FvDtqvtEj" version="24.3.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-05-02T10:19:50.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="PqrkU_sU5kzp82AijbUi" version="24.3.1" type="github" pages="5">
   <diagram name="Corrected Diagram" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="3354" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -151,9 +151,8 @@
             <mxPoint x="480" y="200" as="sourcePoint" />
             <mxPoint x="-90" y="770" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="860" y="182" />
-              <mxPoint x="860" y="850" />
-              <mxPoint x="-90" y="850" />
+              <mxPoint x="840" y="182" />
+              <mxPoint x="840" y="849" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -419,8 +418,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0u6Ae6kYhsasbWiYS0x1-115" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;b&gt;WMO code registry&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
-          <mxGeometry x="910" y="26.25" width="140" height="77.5" as="geometry" />
+        <mxCell id="0u6Ae6kYhsasbWiYS0x1-115" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;b&gt;WMO code registry&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;to support the new&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;data exchange standard&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;developed by WMO&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
+          <mxGeometry x="930" y="100" width="140" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="0u6Ae6kYhsasbWiYS0x1-116" value="" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;rounded=0;fillColor=#FF0000;strokeColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0u6Ae6kYhsasbWiYS0x1-115" target="ByorQN-n8A6gGtA52p3b-126" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -1721,7 +1720,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BiPy-DM7reLvgMs7JX1b" name="2_WIS2.0_WIGOS_WHOS_Philipp">
-    <mxGraphModel dx="2524" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2552" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
