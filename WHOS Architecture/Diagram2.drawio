@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T10:32:46.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Qo-ZEQrcXFtgGoMia99S" version="24.4.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-03T10:33:19.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ll1JPTdKLd4SeV6-kr5o" version="24.4.9" type="github" pages="5">
   <diagram name="Corrected Diagram" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="3108" dy="1847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -491,6 +491,9 @@
         </mxCell>
         <mxCell id="Pr_0xwQCxUR3SQvh27tE-103" value="&lt;div style=&quot;text-align: start;&quot;&gt;MQTT&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF66;rotation=-15;" vertex="1" parent="1">
           <mxGeometry x="554.15" y="324.34000000000003" width="71.71" height="11.64" as="geometry" />
+        </mxCell>
+        <mxCell id="7a8JErhIvh22hTj2VdVn-103" value="&lt;div style=&quot;text-align: start;&quot;&gt;HTTP&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="-119.37" y="630" width="49.37" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
