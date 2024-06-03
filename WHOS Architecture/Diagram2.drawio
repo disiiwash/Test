@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T10:34:58.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="s2oB96JtdoSUd_j7XHA3" version="24.4.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-03T10:36:38.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="2l_-uT35lc6aul_4ZZxQ" version="24.4.9" type="github" pages="5">
   <diagram name="Corrected Diagram" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="3108" dy="1847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -459,7 +459,7 @@
         <mxCell id="Lz9_q4KrBGoTa-1fjfLo-125" value="&lt;div style=&quot;text-align: start;&quot;&gt;HTTP&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="-135" y="10.000000000000028" width="58.75" height="16.16" as="geometry" />
         </mxCell>
-        <mxCell id="3ne6IzK7beVeoQbIkneU-103" value="&lt;div style=&quot;text-align: start;&quot;&gt;HTTP&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF66;" vertex="1" parent="1">
+        <mxCell id="3ne6IzK7beVeoQbIkneU-103" value="&lt;div style=&quot;text-align: start;&quot;&gt;HTTP/MQTT&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="-413" y="443.84000000000003" width="58.75" height="16.16" as="geometry" />
         </mxCell>
         <mxCell id="3ne6IzK7beVeoQbIkneU-104" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#66B2FF;" vertex="1" parent="1">
