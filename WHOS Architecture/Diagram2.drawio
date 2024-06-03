@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T10:28:08.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ulGUJSj5Ge7vRFD0mf1p" version="24.4.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-03T10:29:04.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="9v1ldhIdiO00YgUA_41f" version="24.4.9" type="github" pages="5">
   <diagram name="Corrected Diagram" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
-    <mxGraphModel dx="3414" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3108" dy="1847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -479,6 +479,9 @@
         </mxCell>
         <mxCell id="3ne6IzK7beVeoQbIkneU-120" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot; face=&quot;Montserrat, sans-serif&quot; color=&quot;#0f172a&quot;&gt;&lt;b style=&quot;&quot;&gt;Aggregation:&amp;nbsp; A database could have one or more data providers&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#66FF66;" vertex="1" parent="1">
           <mxGeometry x="-350" y="-25" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qyTe6ZwDYFxHB-OMWa91-103" value="&lt;div style=&quot;text-align: start;&quot;&gt;HTTP&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="290.25" width="58.75" height="16.16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
